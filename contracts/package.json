@@ -1,0 +1,9 @@
+{
+  "name": "solcosm",
+  "version": "0.0.1",
+  "description": "Solidity interfaces and inheritable contracts for Cosmos SDK structs, messages and queries",
+  "main": "index.js",
+  "repository": "https://github.com/loredanacirstea/solcosm",
+  "author": "Loredana Cirstea",
+  "license": "GPL3"
+}
