@@ -1,4 +1,11 @@
 // SPDX-License-Identifier: GPL-3.0
+// @author Loredana Cirstea
+// Solidity interfaces and inheritable contracts for Cosmos SDK structs, messages and queries
+
+/*
+Rules:
+- all methods must use `message` as the name of the instantiated data structure: `function DoSend(MsgSend memory message)`
+*/
 
 pragma solidity >=0.7.0 <0.9.0;
 
