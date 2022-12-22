@@ -13,6 +13,15 @@ npm install loredanacirstea/solcosm
 yarn add loredanacirstea/solcosm
 ```
 
+```shell
+cd solcosm
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.ts
+```
+
 This is an example meant only for didactic purposes.
 
 ```solidity
